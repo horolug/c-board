@@ -1,0 +1,26 @@
+{
+  "name": "b-card",
+  "version": "1.0.0",
+  "description": "Business card type page",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horolug/b-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horolug/b-card/issues"
+  },
+  "homepage": "https://github.com/horolug/b-card#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-dart-sass": "^0.9.1",
+    "gulp-stylelint": "^9.0.0",
+    "gulp-webserver": "^0.9.1",
+    "stylelint": "^10.0.1"
+  }
+}
